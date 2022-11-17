@@ -22,16 +22,16 @@ Welcome to my homepage! I'm a sophomore student at the University of Michigan, a
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending</div><img src='images/ace-model.png' alt="sym" width=500 height=300></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending</div><img src='images/ace-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](docs/ACE-Preprint.pdf)
 
 **Sihan XU**, Zelong Jiang, Ruisi Liu, Kaikai Yang, Zhijie Huang
 
-[**Demo**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Demo**](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- [The Research on Applying Artificial Intelligence Technology to Virtual YouTuber](https://ieeexplore.ieee.org/abstract/document/9507778?casa_token=m84ZX8BB3s8AAAAA:iR2TywTrheghU8KyAv27CQXgdv32istMH9Uj08yBx430fRdPBEfnNngXooPUgJN5SX_ocYoDfg)
+[The Research on Applying Artificial Intelligence Technology to Virtual YouTuber](https://ieeexplore.ieee.org/abstract/document/9507778?casa_token=m84ZX8BB3s8AAAAA:iR2TywTrheghU8KyAv27CQXgdv32istMH9Uj08yBx430fRdPBEfnNngXooPUgJN5SX_ocYoDfg)
 in RAAI 2021 **(Oral)**
   
 **Sihan XU**
