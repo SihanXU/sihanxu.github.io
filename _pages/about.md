@@ -15,24 +15,25 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Test
-
+Welcome to my homepage! I'm a sophomore student at the University of Michigan, and I plan to declare CS in the future. Before transfer to the University of Michigan, I'm a student at Univeristy of Nottingham, pursuing B.S. CS with AI. I'm interested in generative model, unsupervised learning, zero-shot/few-shot learning. I'm currently focus on GANs, contrastive learning, diffusion models and masked models.
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*: &nbsp; The preprint version and demos of ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder is available.
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending</div><img src='images/ace-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Test](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](docs/ACE-Preprint.pdf)
 
-**A**, B, C, D
+**Sihan XU**, Zelong Jiang, Ruisi Liu, Kaikai Yang, Zhijie Huang
 
-[**Demo**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Demooooooooooooooooo 
+[**Demo**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+[The Research on Applying Artificial Intelligence Technology to Virtual YouTuber](https://ieeexplore.ieee.org/abstract/document/9507778?casa_token=m84ZX8BB3s8AAAAA:iR2TywTrheghU8KyAv27CQXgdv32istMH9Uj08yBx430fRdPBEfnNngXooPUgJN5SX_ocYoDfg)
+  
+in RAAI 2021 **(Oral)**
 </div>
 </div>
 
