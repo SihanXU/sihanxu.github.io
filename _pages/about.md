@@ -31,14 +31,14 @@ Welcome to my homepage! I'm a sophomore student at the University of Michigan, a
 
 [**Demo**](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+</div>
+</div>
+
 [The Research on Applying Artificial Intelligence Technology to Virtual YouTuber](https://ieeexplore.ieee.org/abstract/document/9507778?casa_token=m84ZX8BB3s8AAAAA:iR2TywTrheghU8KyAv27CQXgdv32istMH9Uj08yBx430fRdPBEfnNngXooPUgJN5SX_ocYoDfg)
 in RAAI 2021 **(Oral)**
   
 **Sihan XU**
   
-</div>
-</div>
-
 # Honors and Awards
 - Silver (TOP 4%) at Google Smartphone Decimeter Challenge Competition.
 - Prize of honor at International Collegiate Programming Contest.
