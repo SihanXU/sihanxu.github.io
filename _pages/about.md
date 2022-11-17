@@ -38,9 +38,10 @@ in RAAI 2021 **(Oral)**
 </div>
 
 # Honors and Awards
-- Honorsssssssssssss
-- Awardsssssssssssss
+- Silver (TOP 4%) at Google Smartphone Decimeter Challenge Competition.
+- Prize of honor at International Collegiate Programming Contest.
+- TOP 1 at UoN Hackathon.
 
 # Educations
-- *2019.06 - 2022.04 (now)*, 野鸡大学
-- *2015.09 - 2019.06*, 家里蹲大学
+- *2022.09 - now*, University of Michigan, Ann Arbor
+- *2020.09 - 2022.06*, University of Nottingham, Ningbo China
