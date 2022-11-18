@@ -23,7 +23,7 @@ Welcome to my homepage! I'm a sophomore student at the University of Michigan, a
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending</div><img src='images/ace-model.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending</div><img src='images/ace-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](docs/ACE-Preprint.pdf)
