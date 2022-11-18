@@ -19,7 +19,7 @@ Welcome to my homepage! I'm a sophomore student at the University of Michigan, a
 
 # News
 
-- *2022.11*: &nbsp; The preprint version and demos of ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder is available.
+- *2022.11*: &nbsp; The preprint version and demos of ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder are available.
 
 # Publications 
 
