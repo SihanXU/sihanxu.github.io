@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Welcome to my homepage! I'm a sophomore student at the University of Michigan, and I plan to declare CS in the future. Before transfer to the University of Michigan, I'm a student at Univeristy of Nottingham, pursuing B.S. CS with AI. I'm interested in unsupervised learning, zero-shot/few-shot learning and generative model. I'm currently focusing on GANs, contrastive learning, diffusion models and masked models.
+Welcome to my homepage! I'm a sophomore student at the University of Michigan, and I plan to declare CS in the future. Before transferring to the University of Michigan, I'm a student at the University of Nottingham, pursuing B.S. CS with AI. I'm interested in unsupervised learning, zero-shot/few-shot learning, and generative model. I'm currently focusing on GANs, contrastive learning, diffusion, and masked models.
 
 # News
 
