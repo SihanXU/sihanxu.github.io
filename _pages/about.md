@@ -17,6 +17,8 @@ redirect_from:
 
 Welcome to my homepage! I'm a sophomore student at the University of Michigan, and I plan to declare CS in the future. Before transferring to the University of Michigan, I'm a student at the University of Nottingham, pursuing B.S. CS with AI. I'm interested in unsupervised learning, zero-shot/few-shot learning, and generative model. I'm currently focusing on GANs, contrastive learning, diffusion, and masked models.
 
+I'm looking for a research opportunity! Feel free to contact me.
+
 # News
 
 - *2022.11*: &nbsp; The preprint version and demos of ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder are available.
