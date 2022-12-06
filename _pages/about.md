@@ -48,5 +48,5 @@ in RAAI 2021 **(Oral)**
 - TOP 1 at UoN Hackathon.
 
 # Educations
-- *2022.09 - now*, University of Michigan, Ann Arbor
-- *2020.09 - 2022.06*, University of Nottingham, Ningbo China
+- *2022.09 - now*, B.S Computer Science (Undeclared), University of Michigan, Ann Arbor
+- *2020.09 - 2022.06*, BSc Hons Computer Science with AI, University of Nottingham, Ningbo China (**First Class Honor**)
