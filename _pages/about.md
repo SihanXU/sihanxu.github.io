@@ -38,9 +38,6 @@ Welcome to my homepage! I'm a sophomore student at the University of Michigan, a
 
 </div>
 </div>
-
-[The Research on Applying Artificial Intelligence Technology to Virtual YouTuber](https://ieeexplore.ieee.org/abstract/document/9507778?casa_token=m84ZX8BB3s8AAAAA:iR2TywTrheghU8KyAv27CQXgdv32istMH9Uj08yBx430fRdPBEfnNngXooPUgJN5SX_ocYoDfg)
-in RAAI 2021 **(Oral)**
   
 **Sihan XU**
   
