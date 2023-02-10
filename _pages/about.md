@@ -27,7 +27,7 @@ Welcome to my homepage! I'm a sophomore student at the University of Michigan, a
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2023</div><img src='images/ace-model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ace-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://raw.githubusercontent.com/SihanXU/sihanxu.github.io/main/docs/ACE-Preprint.pdf)
