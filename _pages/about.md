@@ -43,7 +43,6 @@ Welcome to my homepage! I'm a sophomore student at the University of Michigan, a
   
 # Honors and Awards
 - Silver (TOP 4%) at Google Smartphone Decimeter Challenge Competition.
-- Prize of honor at International Collegiate Programming Contest.
 - TOP 1 at UoN Hackathon.
 
 # Educations
