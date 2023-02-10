@@ -39,8 +39,6 @@ Welcome to my homepage! I'm a sophomore student at the University of Michigan, a
 </div>
 </div>
   
-**Sihan XU**
-  
 # Honors and Awards
 - Silver (TOP 4%) at Google Smartphone Decimeter Challenge Competition.
 - TOP 1 at UoN Hackathon.
