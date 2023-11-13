@@ -32,7 +32,7 @@ Feel free to contact me!
 - *2022.11*: &nbsp; The preprint version and demos of ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder are available.
 
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending</div><img src='images/inf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending</div><img src='images/Inf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Code name: UniEdit Diffusion](https://arxiv.org/)
