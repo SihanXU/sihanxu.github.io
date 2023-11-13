@@ -19,7 +19,7 @@ Welcome to my homepage! I'm a junior student of Computer Science at the Universi
 
 My research journey began with a strong focus on generative models in computer vision, particularly in Generative Adversarial Networks (GANs) and diffusion models. Currently, my work has expanded to encompass a broader range of topics, including computer vision, natural language processing, and 3D models. 
 
-I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/). Additionally, I maintain strong relationships with [Ziqiao Ma](https://mars-tin.github.io/), [Yidong Huang](https://sled.eecs.umich.edu/author/yidong-owen-huang/) from the University of Michigan and [Jiayi Pan](https://www.jiayipan.me/) from UC Berkeley.
+I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/). Additionally, I'm also working with [Ziqiao Ma](https://mars-tin.github.io/), [Yidong Huang](https://sled.eecs.umich.edu/author/yidong-owen-huang/) from the University of Michigan and [Jiayi Pan](https://www.jiayipan.me/) from UC Berkeley.
 
 Feel free to contact me!
 
