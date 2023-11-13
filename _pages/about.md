@@ -49,7 +49,7 @@ Feel free to contact me!
 
 **Sihan XU**, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai
 
-\[[**project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**]\](https://github.com/sled-group/CycleNet) 
+\[[**project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**](https://github.com/sled-group/CycleNet)\]
 
 </div>
 </div>
@@ -61,7 +61,7 @@ Feel free to contact me!
 
 **Sihan XU**, Zelong Jiang, Ruisi Liu, Kaikai Yang, Zhijie Huang
 
-\[[**Arxiv**]\](https://arxiv.org/abs/2302.11705)\[[**Demo**]\](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation)
+\[[**Arxiv**](https://arxiv.org/abs/2302.11705)\]\[[**Demo**](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation)\]
 
 </div>
 </div>
