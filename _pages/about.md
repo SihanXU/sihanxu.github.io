@@ -40,7 +40,9 @@ Feel free to contact me!
 **Sihan XU**, Yidong Huang, Jiayi Pan, Ziqiao Ma, Joyce Chai
 
 </div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/cycle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://cyclenetweb.github.io/)
@@ -50,7 +52,9 @@ Feel free to contact me!
 \[[**project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**](https://github.com/sled-group/CycleNet)\]
 
 </div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ace-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://raw.githubusercontent.com/SihanXU/sihanxu.github.io/main/docs/ACE-Preprint.pdf)
