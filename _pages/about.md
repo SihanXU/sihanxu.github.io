@@ -49,7 +49,7 @@ Feel free to contact me!
 
 **Sihan XU**, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai
 
-\[[**project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**](https://github.com/sled-group/CycleNet)\]
+\[[**Project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**](https://github.com/sled-group/CycleNet)\]
 
 </div>
 </div>
