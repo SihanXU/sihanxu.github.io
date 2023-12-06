@@ -37,7 +37,7 @@ Feel free to contact me!
 
 [Inversion-Free Image Editing with Natural Language](https://sled-group.github.io/InfEdit/)
 
-**Sihan XU**, Yidong Huang, Jiayi Pan, Ziqiao Ma, Joyce Chai
+**Sihan XU\***, Yidong Huan\*, Jiayi Pan, Ziqiao Ma, Joyce Chai
 
 \[[**Project**](https://sled-group.github.io/InfEdit/)\]\[[**Arxiv**](https://arxiv.org/)\]\[[**Demo**](http://sled-snowbird.eecs.umich.edu/)\]\[[**Code**](https://github.com/sled-group/InfEdit)\]
 </div>
@@ -48,7 +48,7 @@ Feel free to contact me!
 
 [CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://cyclenetweb.github.io/)
 
-**Sihan XU**, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai
+**Sihan XU\***, Ziqiao Ma\*, Yidong Huang, Honglak Lee, Joyce Chai
 
 \[[**Project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**](https://github.com/sled-group/CycleNet)\]
 
