@@ -25,7 +25,7 @@ Feel free to contact me!
 
 # News
 
-- *2023.11*: &nbsp; Demo of [Code name: UniEdit Diffusion](https://arxiv.org/) is available.
+- *2023.11*: &nbsp; Demo of [InfEdit](https://sled-group.github.io/InfEdit/) is available.
 - *2023.10*: &nbsp; [CycleNet](https://cyclenetweb.github.io/) to appear in NeurIPS 2023, and the preprint is available.
 - *2023.05*: &nbsp; Code of [CycleNet](https://cyclenetweb.github.io/) is available.
 - *2023.02*: &nbsp; Join SLED lab.
@@ -35,10 +35,11 @@ Feel free to contact me!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending</div><img src='images/Inf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Code name: UniEdit Diffusion](https://arxiv.org/)
+[Inversion-Free Image Editing with Natural Language](https://sled-group.github.io/InfEdit/)
 
 **Sihan XU**, Yidong Huang, Jiayi Pan, Ziqiao Ma, Joyce Chai
 
+\[[**Project**](https://sled-group.github.io/InfEdit/)\]\[[**Arxiv**](https://arxiv.org/)\]\[[**Demo**](http://sled-snowbird.eecs.umich.edu/)\]\[[**Code**](https://github.com/sled-group/InfEdit)\]
 </div>
 </div>
 
