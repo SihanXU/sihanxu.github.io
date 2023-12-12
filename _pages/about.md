@@ -21,7 +21,7 @@ My research journey began with a strong focus on generative models in computer v
 
 I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/). Additionally, I'm also working with [Ziqiao Ma](https://mars-tin.github.io/), [Yidong Huang](https://h6kplus.github.io/owenhuang.github.io/) from the University of Michigan and [Jiayi Pan](https://www.jiayipan.me/) from UC Berkeley.
 
-Feel free to contact me!
+## I will apply for phd at Fall 2025, so feel free to contact me!
 
 # News
 
