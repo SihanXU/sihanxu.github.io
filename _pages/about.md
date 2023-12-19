@@ -39,7 +39,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 
 **Sihan XU\***, Yidong Huan\*, Jiayi Pan, Ziqiao Ma, Joyce Chai
 
-\[[**Project**](https://sled-group.github.io/InfEdit/)\]\[[**Arxiv**](https://arxiv.org/abs/2312.04965)\]\[[**Demo**](http://sled-snowbird.eecs.umich.edu/)\]\[[**Code**](https://github.com/sled-group/InfEdit)\]
+\[[**Project**](https://sled-group.github.io/InfEdit/)\]\[[**Arxiv**](https://arxiv.org/abs/2312.04965)\]\[[**Demo**](https://huggingface.co/spaces/sled-umich/InfEdit)\]\[[**Code**](https://github.com/sled-group/InfEdit)\]
 </div>
 </div>
 
