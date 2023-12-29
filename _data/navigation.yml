@@ -7,6 +7,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Experience"
+    url: "/#-Experience"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
