@@ -25,6 +25,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 
 # News
 
+- *2024.01*: &nbsp; Join Troph Inc. & [PixAI](https://pixai.art/) as a ML Research Engineer.
 - *2023.11*: &nbsp; Demo of [InfEdit](https://sled-group.github.io/InfEdit/) is available.
 - *2023.10*: &nbsp; [CycleNet](https://cyclenetweb.github.io/) to appear in NeurIPS 2023, and the preprint is available.
 - *2023.05*: &nbsp; Code of [CycleNet](https://cyclenetweb.github.io/) is available.
@@ -67,6 +68,9 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 </div>
 </div>
   
+# Experience
+- *2024.01 - present*, ML Research Engineer @ Troph Inc. & [PixAI](https://pixai.art/)
+
 # Honors and Awards
 - Silver (TOP 4%) at **Google** Smartphone Decimeter Challenge Competition.
 - TOP 1 at UoN Hackathon.
