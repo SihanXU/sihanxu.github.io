@@ -25,6 +25,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 
 # News
 
+- *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
 - *2024.01*: &nbsp; Join [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/) as a ML Research Engineer.
 - *2023.11*: &nbsp; Demo of [InfEdit](https://sled-group.github.io/InfEdit/) is available.
 - *2023.10*: &nbsp; [CycleNet](https://cyclenetweb.github.io/) to appear in NeurIPS 2023, and the preprint is available.
@@ -33,7 +34,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 - *2022.11*: &nbsp; The preprint version and demos of ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder are available.
 
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/infedit_gif.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/infedit_gif.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inversion-Free Image Editing with Natural Language](https://sled-group.github.io/InfEdit/)
