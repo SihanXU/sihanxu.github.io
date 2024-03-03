@@ -34,6 +34,17 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 - *2022.11*: &nbsp; The preprint version and demos of ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder are available.
 
 # Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/UniCtrlTeaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control
+
+Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
+
+Coming soon
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/infedit_gif.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
