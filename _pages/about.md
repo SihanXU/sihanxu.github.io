@@ -54,7 +54,7 @@ Coming soon
 
 **Sihan XU\***, Yidong Huan\*, Jiayi Pan, Ziqiao Ma, Joyce Chai
 
-First author
+*First author
 
 \[[**Project**](https://sled-group.github.io/InfEdit/)\]\[[**Arxiv**](https://arxiv.org/abs/2312.04965)\]\[[**Demo**](https://huggingface.co/spaces/sled-umich/InfEdit)\]\[[**Code**](https://github.com/sled-group/InfEdit)\]
 </div>
@@ -67,7 +67,7 @@ First author
 
 **Sihan XU\***, Ziqiao Ma\*, Yidong Huang, Honglak Lee, Joyce Chai
 
-First author
+*First author
 
 \[[**Project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**](https://github.com/sled-group/CycleNet)\]
 
@@ -79,9 +79,9 @@ First author
 
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://raw.githubusercontent.com/SihanXU/sihanxu.github.io/main/docs/ACE-Preprint.pdf)
 
-**Sihan XU**, Zelong Jiang, Ruisi Liu, Kaikai Yang, Zhijie Huang
+**Sihan XU\***, Zelong Jiang*, Ruisi Liu*, Kaikai Yang, Zhijie Huang
 
-First author
+*First author and †Correspondence
 
 \[[**Arxiv**](https://arxiv.org/abs/2302.11705)\]\[[**Demo**](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation)\]
 
