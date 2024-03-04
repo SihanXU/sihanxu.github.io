@@ -41,6 +41,8 @@ UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Mod
 
 Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 
+†Correspondence
+
 Coming soon
 </div>
 </div>
@@ -51,6 +53,8 @@ Coming soon
 [Inversion-Free Image Editing with Natural Language](https://sled-group.github.io/InfEdit/)
 
 **Sihan XU\***, Yidong Huan\*, Jiayi Pan, Ziqiao Ma, Joyce Chai
+
+First author
 
 \[[**Project**](https://sled-group.github.io/InfEdit/)\]\[[**Arxiv**](https://arxiv.org/abs/2312.04965)\]\[[**Demo**](https://huggingface.co/spaces/sled-umich/InfEdit)\]\[[**Code**](https://github.com/sled-group/InfEdit)\]
 </div>
@@ -63,6 +67,8 @@ Coming soon
 
 **Sihan XU\***, Ziqiao Ma\*, Yidong Huang, Honglak Lee, Joyce Chai
 
+First author
+
 \[[**Project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**](https://github.com/sled-group/CycleNet)\]
 
 </div>
@@ -74,6 +80,8 @@ Coming soon
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://raw.githubusercontent.com/SihanXU/sihanxu.github.io/main/docs/ACE-Preprint.pdf)
 
 **Sihan XU**, Zelong Jiang, Ruisi Liu, Kaikai Yang, Zhijie Huang
+
+First author
 
 \[[**Arxiv**](https://arxiv.org/abs/2302.11705)\]\[[**Demo**](https://github.com/SihanXU/ACE/tree/main/Zero%20shot%20Image%20to%20Image%20Translation)\]
 
