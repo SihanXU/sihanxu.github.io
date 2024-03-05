@@ -25,6 +25,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 
 # News
 
+- *2024.03*：&nbsp; Preprint of [UniCtrl](https://arxiv.org/abs/2403.02332) is available.
 - *2024.03*: &nbsp; Code of [InfEdit](https://sled-group.github.io/InfEdit/) and [UniCtrl](https://unified-attention-control.github.io/) is available.
 - *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
 - *2024.01*: &nbsp; Join [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/) as a ML Research Engineer.
@@ -44,7 +45,7 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 
 †Correspondence
 
-\[[**Project**](https://unified-attention-control.github.io/)\]\[[**Arxiv**](https://arxiv.org/)\]\[[**Demo**](https://huggingface.co/spaces/Xuweiyi/UniCtrl)\]\[[**Code**](https://github.com/XuweiyiChen/UniCtrl)\]
+\[[**Project**](https://unified-attention-control.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2403.02332)\]\[[**Demo**](https://huggingface.co/spaces/Xuweiyi/UniCtrl)\]\[[**Code**](https://github.com/XuweiyiChen/UniCtrl)\]
 </div>
 </div>
 
