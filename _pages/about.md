@@ -32,7 +32,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 - *2023.10*: &nbsp; [CycleNet](https://cyclenetweb.github.io/) to appear in NeurIPS 2023, and the preprint is available.
 - *2023.05*: &nbsp; Code of [CycleNet](https://cyclenetweb.github.io/) is available.
 - *2023.02*: &nbsp; Join SLED lab.
-- *2022.11*: &nbsp; The preprint version and demos of ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder are available.
+- *2022.11*: &nbsp; The preprint version and demos of ACE are available.
 
 # Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/UniCtrlTeaser.png' alt="sym" width="100%"></div></div>
