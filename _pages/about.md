@@ -37,13 +37,13 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/UniCtrlTeaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control
+[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control](https://unified-attention-control.github.io/)
 
 Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 
 †Correspondence
 
-Coming soon
+\[[**Project**](https://unified-attention-control.github.io/)\]\[[**Arxiv**](https://arxiv.org/)\]\[[**Demo**](https://huggingface.co/spaces/Xuweiyi/UniCtrl)\]\[[**Code**](https://github.com/XuweiyiChen/UniCtrl)\]
 </div>
 </div>
 
