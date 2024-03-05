@@ -25,6 +25,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 
 # News
 
+- *2024.03*: &nbsp; Code of [InfEdit](https://sled-group.github.io/InfEdit/) and [UniCtrl](https://unified-attention-control.github.io/) is available.
 - *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
 - *2024.01*: &nbsp; Join [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/) as a ML Research Engineer.
 - *2023.11*: &nbsp; Demo of [InfEdit](https://sled-group.github.io/InfEdit/) is available.
