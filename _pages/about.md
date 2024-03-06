@@ -17,7 +17,7 @@ redirect_from:
 
 Welcome to my homepage! I'm a junior student of Computer Science at the University of Michigan and an Undergraduate Research Assistant at [SLED lab](https://sled.eecs.umich.edu/). Before transferring to the University of Michigan, I'm a student at the University of Nottingham, pursuing B.S. CS with AI. I'm interested in unsupervised/self-supervised learning and generative models, also interested in doing stupid things.
 
-My research journey began with a strong focus on generative models in computer vision, particularly in Generative Adversarial Networks (GANs) and diffusion models. Currently, my work has expanded to encompass a broader range of topics, including computer vision, natural language processing, and 3D models. 
+My research journey began with a strong focus on generative models in computer vision, particularly in Generative Adversarial Networks (GANs) and diffusion models. Currently, my work has expanded to encompass a broader range of topics, including computer vision, natural language processing, 3D models and robotics. 
 
 I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/).
 
