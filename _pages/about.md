@@ -26,13 +26,9 @@ I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai
 # News
 
 - *2024.03*: &nbsp; Preprint of [UniCtrl](https://arxiv.org/abs/2403.02332) is available.
-- *2024.03*: &nbsp; Code of [InfEdit](https://sled-group.github.io/InfEdit/) and [UniCtrl](https://unified-attention-control.github.io/) is available.
 - *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
 - *2024.01*: &nbsp; Join [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/) as a ML Research Engineer.
-- *2023.11*: &nbsp; Demo of [InfEdit](https://sled-group.github.io/InfEdit/) is available.
 - *2023.10*: &nbsp; [CycleNet](https://cyclenetweb.github.io/) to appear in NeurIPS 2023, and the preprint is available.
-- *2023.05*: &nbsp; Code of [CycleNet](https://cyclenetweb.github.io/) is available.
-- *2023.02*: &nbsp; Join SLED lab.
 - *2022.11*: &nbsp; The preprint version and demos of ACE are available.
 
 # Publications 
@@ -93,6 +89,11 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 # Experience
 - *2024.01 - present*, ML Research Engineer @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) and [UMich](https://umich.edu/)
+
+# Project
+- [Transferwiki](https://transferwiki.com/) - Founder
+  
+  TransferWiki is a platform created to assist students from mainland China who are planning to transfer to universities abroad, particularly in the United States, Canada, and the United Kingdom. This platform addresses the challenges and information asymmetry faced by students during the transfer process.
 
 # Honors and Awards
 - Silver (TOP 4%) at **Google** Smartphone Decimeter Challenge Competition.
