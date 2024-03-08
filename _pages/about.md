@@ -90,7 +90,7 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 - *2024.01 - present*, ML Research Engineer @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) and [UMich](https://umich.edu/)
 
-# Project
+# Projects
 - [Transferwiki](https://transferwiki.com/) - Founder
   
   TransferWiki is a platform created to assist students from mainland China who are planning to transfer to universities abroad, particularly in the United States, Canada, and the United Kingdom. This platform addresses the challenges and information asymmetry faced by students during the transfer process.
