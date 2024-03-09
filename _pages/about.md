@@ -77,7 +77,7 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://raw.githubusercontent.com/SihanXU/sihanxu.github.io/main/docs/ACE-Preprint.pdf)
 
-**Sihan XU\***, Zelong Jiang\*, Ruisi Liu\*, Kaikai Yang, Zhijie Huang
+**Sihan XU\*†**, Zelong Jiang\*, Ruisi Liu\*, Kaikai Yang, Zhijie Huang
 
 *First author and †Correspondence
 
