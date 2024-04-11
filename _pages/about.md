@@ -15,16 +15,17 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Welcome to my homepage! I'm a junior student of Computer Science at the University of Michigan and an Undergraduate Research Assistant at [SLED lab](https://sled.eecs.umich.edu/). Before transferring to the University of Michigan, I'm a student at the University of Nottingham, pursuing B.S. CS with AI. I'm interested in unsupervised/self-supervised learning and generative models, also interested in doing stupid things.
+Welcome to my homepage! I'm a junior student of Computer Science at the University of Michigan and an Undergraduate Research Assistant at [SLED lab](https://sled.eecs.umich.edu/) and VisionX. Before transferring to the University of Michigan, I'm a student at the University of Nottingham, pursuing B.S. CS with AI. I'm interested in unsupervised/self-supervised learning and generative models, also interested in doing stupid things.
 
 My research journey began with a strong focus on generative models in computer vision, particularly in Generative Adversarial Networks (GANs) and diffusion models. Currently, my work has expanded to encompass a broader range of topics, including computer vision, natural language processing, 3D models and robotics. 
 
-I am proud to collaborate with distinguished academics such as Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/).
+I am proud to collaborate with distinguished academics such as Prof. [Saining Xie](https://www.sainingxie.com/), Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/).
 
 ### I will apply for the phd program of Fall 2025, so feel free to contact me!
 
 # News
 
+- *2024.04*: &nbsp;Join VisionX of Prof. [Saining Xie](https://www.sainingxie.com/) as a Research Intern.
 - *2024.03*: &nbsp; Preprint of [UniCtrl](https://arxiv.org/abs/2403.02332) is available.
 - *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
 - *2024.01*: &nbsp; Join [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/) as a ML Research Engineer.
