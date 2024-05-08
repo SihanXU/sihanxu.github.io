@@ -25,7 +25,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Saining Xi
 
 # News
 
-- *2024.04*: &nbsp;Join VisionX of Prof. [Saining Xie](https://www.sainingxie.com/) as a Research Intern.
+- *2024.04*: &nbsp; Join VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/) as a Research Intern.
 - *2024.03*: &nbsp; Preprint of [UniCtrl](https://arxiv.org/abs/2403.02332) is available.
 - *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
 - *2024.01*: &nbsp; Join [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/) as a ML Research Engineer.
@@ -88,7 +88,8 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 </div>
   
 # Experience
-- *2024.01 - present*, ML Research Engineer @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
+- *2024.04 - present*, Research Intern @ VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/)
+- *2024.01 - 2024.05*, Research Lead @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) and [UMich](https://umich.edu/)
 
 # Projects
