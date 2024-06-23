@@ -25,6 +25,7 @@ I am proud to collaborate with distinguished academics such as Prof. [Saining Xi
 
 # News
 
+- *2024.06*: &nbsp; One paper get accepted by AVLR  Workshop2024.
 - *2024.04*: &nbsp; Join VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/) as a Research Intern.
 - *2024.03*: &nbsp; Preprint of [UniCtrl](https://arxiv.org/abs/2403.02332) is available.
 - *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
@@ -33,6 +34,15 @@ I am proud to collaborate with distinguished academics such as Prof. [Saining Xi
 - *2022.11*: &nbsp; The preprint version and demos of ACE are available.
 
 # Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AVLR 2024</div><img src='images/prompting_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-Object Hallucination in Vision-Language Models
+
+Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
+
+Coming soon.
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/UniCtrlTeaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
