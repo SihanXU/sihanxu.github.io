@@ -19,7 +19,7 @@ Welcome to my homepage! I'm a junior student of Computer Science at the Universi
 
 My research journey began with a strong focus on generative models in computer vision, particularly in Generative Adversarial Networks (GANs) and diffusion models. Currently, my work has expanded to encompass a broader range of topics, including computer vision, natural language processing, 3D models and robotics. 
 
-### I will apply for the phd program of Fall 2025, so feel free to contact me!
+### I am actively looking for PhD position to start in 2025 Fall.
 
 # News
 
