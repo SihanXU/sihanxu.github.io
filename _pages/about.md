@@ -19,11 +19,19 @@ Welcome to my homepage! I'm a junior student of Computer Science at the Universi
 
 My research journey began with a strong focus on generative models in computer vision, particularly in Generative Adversarial Networks (GANs) and diffusion models. Currently, my work has expanded to encompass a broader range of topics, including computer vision, natural language processing, 3D models and robotics. 
 
+I think I will focus on the following topics in the future:
+
+- **Multimodal Representation Learning, especially in unsupervised methods.**
+
+- **Causal Generative Model, not only just about autoregressive models or diffusion models.**
+
+- **Machine Learning, something more than current learning approaches.**
+
 ### I am actively looking for PhD position to start in 2025 Fall.
 
 # News
 
-- *2024.06*: &nbsp; One paper get accepted by AVLR  Workshop2024.
+- *2024.06*: &nbsp; One paper get accepted by AVLR Workshop2024.
 - *2024.04*: &nbsp; Join VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/) as a Research Intern.
 - *2024.03*: &nbsp; Preprint of [UniCtrl](https://arxiv.org/abs/2403.02332) is available.
 - *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
@@ -35,11 +43,11 @@ My research journey began with a strong focus on generative models in computer v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AVLR 2024</div><img src='images/prompting_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-Object Hallucination in Vision-Language Models
+[Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io/)
 
 Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
 
-Coming soon.
+\[[**Project**](https://multi-object-hallucination.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2407.06192)\]\[[**Code**](https://github.com/sled-group/moh)\]\[[**Dataset**](https://huggingface.co/datasets/sled-umich/ROPE)\]
 </div>
 </div>
 
@@ -100,17 +108,23 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 # Experience
 - *2024.04 - present*, Research Intern @ VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/)
 - *2024.01 - 2024.05*, Research Lead @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
-- *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) and [UMich](https://umich.edu/)
-
+- *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) advised by Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
+- 
 # Projects
+
+- [PixAI.art Anime Video Model](https://x.com/PixAI_Official/status/1755180853645459554)
+
+  Large scale and state of the art anime video model (at that time).
+  
 - [Transferwiki](https://transferwiki.com/) - Founder
   
   TransferWiki is a platform created to assist students from mainland China who are planning to transfer to universities abroad, particularly in the United States, Canada, and the United Kingdom. This platform addresses the challenges and information asymmetry faced by students during the transfer process.
 
 # Honors and Awards
-- Silver (TOP 4%) at **Google** Smartphone Decimeter Challenge Competition.
+- University Honors
+- Silver (TOP 4%) at Google Smartphone Decimeter Challenge Competition.
 - TOP 1 at UoN Hackathon.
 
 # Educations
-- *2022.09 - 2025.06*, B.S Computer Science, University of Michigan, Ann Arbor (Pursuing **Honor Degree**)
+- *2022.09 - 2025.06*, B.S Computer Science with AI, University of Michigan, Ann Arbor (Pursuing **Honor Degree**)
 - *2020.09 - 2022.06*, BSc Hons Computer Science with AI, University of Nottingham, Ningbo China (**First Class Honor**)
