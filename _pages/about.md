@@ -109,7 +109,7 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU†**
 - *2024.04 - present*, Research Intern @ VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/)
 - *2024.01 - 2024.05*, Research Lead @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) advised by Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
-- 
+
 # Projects
 
 - [PixAI.art Anime Video Model](https://x.com/PixAI_Official/status/1755180853645459554)
