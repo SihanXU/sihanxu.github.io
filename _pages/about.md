@@ -27,7 +27,7 @@ I think I will focus on the following topics from **first principles** in the fu
 
 - **Machine Learning, something more than current learning approaches.**
 
-<span style="color: red;">### I am actively looking for PhD position to start in 2025 Fall.</span>
+### <span style="color: red;"> I am actively looking for PhD position to start in 2025 Fall. </span>
 
 # News
 
