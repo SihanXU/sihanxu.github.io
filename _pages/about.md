@@ -90,7 +90,7 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 <div class='paper-box-text' markdown="1">
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://raw.githubusercontent.com/SihanXU/sihanxu.github.io/main/docs/ACE-Preprint.pdf)
 
-**Sihan XU\*<span style="color: red;">**†**</span>**, Zelong Jiang\*, Ruisi Liu\*, Kaikai Yang, Zhijie Huang
+**Sihan XU**\*<span style="color: red;">**†**</span>, Zelong Jiang\*, Ruisi Liu\*, Kaikai Yang, Zhijie Huang
 
 <span style="color: red;">**\*First author and †Correspondence**</span>
 
