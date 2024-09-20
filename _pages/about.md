@@ -121,3 +121,5 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 # Educations
 - *2022.09 - 2025.06*, B.S Computer Science with AI, University of Michigan, Ann Arbor (Pursuing **Honor Degree**)
 - *2020.09 - 2022.06*, BSc Hons Computer Science with AI, University of Nottingham, Ningbo China (**First Class Honor**)
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=z4YwVPEqLess2QRcopfZP470E6z9y3FHwqrYKv6f2AM&cl=ffffff&w=a"></script>
