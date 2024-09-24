@@ -71,6 +71,8 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 <span style="color: red;">**\*First author**</span>
 
 \[[**Project**](https://sled-group.github.io/InfEdit/)\]\[[**Arxiv**](https://arxiv.org/abs/2312.04965)\]\[[**Demo**](https://huggingface.co/spaces/sled-umich/InfEdit)\]\[[**Code**](https://github.com/sled-group/InfEdit)\]
+
+\[[<span style="color: red;">**UMich CSE News Coverage**</span>](https://cse.engin.umich.edu/stories/fifteen-papers-by-cse-researchers-at-cvpr-2024)\]
 </div>
 </div>
 
@@ -83,6 +85,8 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 <span style="color: red;">**\*First author**</span>
 
 \[[**Project**](https://cyclenetweb.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2310.13165)\]\[[**Code**](https://github.com/sled-group/CycleNet)\]
+
+\[[<span style="color: red;">**UMich CSE News Coverage**</span>](https://cse.engin.umich.edu/stories/thirteen-papers-by-cse-researchers-presented-at-neurips-2023)\]
 </div>
 </div>
 
