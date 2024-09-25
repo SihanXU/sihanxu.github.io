@@ -40,7 +40,7 @@ I think I will focus on the following topics from **first principles** in the fu
 - *2022.11*: &nbsp; The preprint version and demos of ACE are available.
 
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AVLR 2024</div><img src='images/prompting_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/prompting_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io/)
 
