@@ -19,7 +19,7 @@ Welcome to my homepage! I'm a junior student of Computer Science at the Universi
 
 My research journey began with a strong focus on generative models in computer vision, particularly in Generative Adversarial Networks (GANs) and diffusion models. Currently, my work has expanded to encompass a broader range of topics, including computer vision, natural language processing, 3D models and robotics. 
 
-I think I will focus on the following topics from **first principles** in the future:
+I think I will focus on the following topics from **first principles** and **Occam's razor** in the future:
 
 - **Multimodal Representation Learning, especially in unsupervised methods.**
 
