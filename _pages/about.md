@@ -74,6 +74,7 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 \[[**Project**](https://sled-group.github.io/InfEdit/)\]\[[**Arxiv**](https://arxiv.org/abs/2312.04965)\]\[[**Demo**](https://huggingface.co/spaces/sled-umich/InfEdit)\]\[[**Code**](https://github.com/sled-group/InfEdit)\]
 
 \[[<span style="color: red;">**UMich CSE News Coverage**</span>](https://cse.engin.umich.edu/stories/fifteen-papers-by-cse-researchers-at-cvpr-2024)\]
+
 \[[<span style="color: red;">**🏆Top2 at GenAI-Arena Leaderboard**</span>](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)\]
 </div>
 </div>
