@@ -65,7 +65,7 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/infedit_gif.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Inversion-Free Image Editing with Natural Language](https://sled-group.github.io/InfEdit/)
+[Inversion-Free Image Editing with Natural Language](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Inversion-Free_Image_Editing_with_Language-Guided_Diffusion_Models_CVPR_2024_paper.html)
 
 **Sihan XU\***, Yidong Huan\*, Jiayi Pan, Ziqiao Ma, Joyce Chai
 
@@ -81,7 +81,7 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/cycle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://cyclenetweb.github.io/)
+[CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/21293a43d0321c5602dd893be2c2332b-Abstract-Conference.html)
 
 **Sihan XU\***, Ziqiao Ma\*, Yidong Huang, Honglak Lee, Joyce Chai
 
