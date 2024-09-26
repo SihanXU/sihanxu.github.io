@@ -98,12 +98,15 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.5rem 1.5rem; /* 增加内边距 */
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    margin-top: 1em; /* 提高与周围元素的距离 */
+    margin-left: -1em; /* 调整位置 */
+    color: white; /* 保持文本颜色白色 */
+    background-color: #FF5733; /* 使用醒目的亮橙色 */
+    font-size: 1em; /* 增大字体 */
+    font-weight: bold; /* 使字体加粗 */
+    border-radius: 0.5rem; /* 增加圆角使其看起来更圆滑 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影效果使其更有立体感 */
+    z-index: 1000; /* 确保它出现在所有元素之上 */
 }
