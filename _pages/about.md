@@ -120,9 +120,6 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 - *2024.01 - 2024.05*, Research Lead @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) advised by Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
 
-# Service
-- Conference reviewer: CVPR, EMNLP, ICLR
-
 # Honors and Awards
 - University Honors
 - Silver (TOP 4%) at Google Smartphone Decimeter Challenge Competition.
@@ -131,6 +128,9 @@ Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**<span style="color: red;">**†**</span>
 # Educations
 - *2022.09 - 2025.06*, B.S Computer Science with AI, University of Michigan, Ann Arbor (Pursuing **Honor Degree**)
 - *2020.09 - 2022.06*, BSc Hons Computer Science with AI, University of Nottingham, Ningbo China (**First Class Honor**)
+
+# Service
+- Conference reviewer: CVPR, EMNLP, ICLR
 
 <div style="width: 200px; height: 200px;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=z4YwVPEqLess2QRcopfZP470E6z9y3FHwqrYKv6f2AM&cl=ffffff&w=a"></script>
