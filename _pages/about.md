@@ -32,7 +32,6 @@ I think I will focus on the following topics from **first principles** and **Occ
 # News
 
 - *2024.09*: &nbsp; One paper get accepted by NeurIPS2024.
-- *2024.06*: &nbsp; One paper get accepted by AVLR Workshop2024.
 - *2024.04*: &nbsp; Join VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/) as a Research Intern.
 - *2024.03*: &nbsp; Preprint of [UniCtrl](https://arxiv.org/abs/2403.02332) is available.
 - *2024.02*: &nbsp; [InfEdit](https://sled-group.github.io/InfEdit/) to appear in CVPR 2024.
