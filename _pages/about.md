@@ -51,7 +51,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/UniCtrlTeaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span style="color: red;">**[TMLR]**</span>[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control](https://unified-attention-control.github.io/)
+<span style="color: red;">**[TMLR]**</span>[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control](https://openreview.net/forum?id=x2uFJ79OjK)
 
 Tian Xia\*, Xuweiyi Chen\*, **Sihan XU**<span style="color: red;">**†**</span>
 
