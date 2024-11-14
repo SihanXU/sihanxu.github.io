@@ -38,15 +38,6 @@ I think I will focus on the following topics from **first principles** and **Occ
 - *2022.11*: &nbsp; The preprint version and demos of ACE are available.
 
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/prompting_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span style="color: red;">**[NeurIPS2024]**</span>[Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io/)
-
-Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
-
-\[[**Project**](https://multi-object-hallucination.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2407.06192)\]\[[**Code**](https://github.com/sled-group/moh)\]\[[**Dataset**](https://huggingface.co/datasets/sled-umich/ROPE)\]
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/UniCtrlTeaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,6 +48,17 @@ Tian Xia\*, Xuweiyi Chen\*, **Sihan XU**<span style="color: red;">**†**</span>
 <span style="color: red;">**†Correspondence**</span>
 
 \[[**Project**](https://unified-attention-control.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2403.02332)\]\[[**Demo**](https://huggingface.co/spaces/Xuweiyi/UniCtrl)\]\[[**Code**](https://github.com/XuweiyiChen/UniCtrl)\]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/prompting_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span style="color: red;">**[NeurIPS2024]**</span>[Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io/)
+
+Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
+
+\[[**Project**](https://multi-object-hallucination.github.io/)\]\[[**Arxiv**](https://arxiv.org/abs/2407.06192)\]\[[**Code**](https://github.com/sled-group/moh)\]\[[**Dataset**](https://huggingface.co/datasets/sled-umich/ROPE)\]
 </div>
 </div>
 
