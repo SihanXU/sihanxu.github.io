@@ -39,6 +39,16 @@ I think I will focus on the following topics from **first principles** and **Occ
 
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sab3r.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+SAB3R: Semantic-Augmented Backbone in 3D Reconstruction](https://openreview.net/forum?id=x2uFJ79OjK
+
+Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**, Jianing Yang, Joyce Chai, Zezhou Cheng
+
+Coming soon.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/UniCtrlTeaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="color: red;">**[TMLR]**</span>[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control](https://openreview.net/forum?id=x2uFJ79OjK)
