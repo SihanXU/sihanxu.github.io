@@ -2,16 +2,22 @@
 main:
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
+
+  - title: "Projects"
+    url: "/#projects"
 
   - title: "Experience"
-    url: "/#-Experience"
+    url: "/#Experience"
     
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
+
+  - title: "Service"
+    url: "/#service"
