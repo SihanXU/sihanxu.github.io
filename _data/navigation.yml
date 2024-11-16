@@ -11,7 +11,7 @@ main:
     url: "/#projects"
 
   - title: "Experience"
-    url: "/#Experience"
+    url: "/#experience"
     
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
