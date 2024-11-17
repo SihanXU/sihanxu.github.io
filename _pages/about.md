@@ -141,7 +141,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 - *2023.12*, Open Vocabulary Image Processing via Diffusion Models @ SLED.
 
 # Honors and Awards
-- University Honors
+- University Honors.
 - Silver (TOP 4%) at Google Smartphone Decimeter Challenge Competition.
 - TOP 1 at UoN Hackathon.
 
