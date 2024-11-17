@@ -138,7 +138,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) advised by Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
 
 # Talks
-- *2023, 12*, Open Vocabulary Image Processing via Diffusion Models @ SLED, 
+- *2023, 12*, Open Vocabulary Image Processing via Diffusion Models @ SLED.
 
 # Honors and Awards
 - University Honors
