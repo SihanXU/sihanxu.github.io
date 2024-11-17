@@ -121,6 +121,12 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 - [PixAI.art Anime Video Model](https://x.com/PixAI_Official/status/1755180853645459554)
 
   Large scale and state of the art anime video model (at that time).
+
+- [Rethink the Noise Prior of Initialization Gap in Video Diffusion Models](https://github.com/SihanXU/sihanxu.github.io/blob/main/docs/EECS_442_Project.pdf)
+
+  Tian Xia, Yinuo Yang, Sihan XU
+
+  EECS 442 Cource Project
   
 - [Transferwiki](https://transferwiki.com/) - Founder
   
@@ -130,6 +136,9 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 - *2024.04 - present*, Research Intern @ VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/)
 - *2024.01 - 2024.05*, Research Lead @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) advised by Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
+
+# Talks
+- *2023, 12*, Open Vocabulary Image Processing via Diffusion Models @ SLED, 
 
 # Honors and Awards
 - University Honors
