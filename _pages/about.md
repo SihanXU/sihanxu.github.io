@@ -146,8 +146,8 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 - TOP 1 at UoN Hackathon.
 
 # Educations
-- *2022.09 - 2025.06*, B.S Computer Science with AI, University of Michigan, Ann Arbor (Pursuing **Honor Degree**)
-- *2020.09 - 2022.06*, BSc Hons Computer Science with AI, University of Nottingham, Ningbo China (**First Class Honor**)
+- *2022.09 - 2025.06*, B.S Computer Science with AI, University of Michigan (Pursuing **Honor Degree**)
+- *2020.09 - 2022.06*, BSc Hons Computer Science with AI, University of Nottingham (**First Class Honor**)
 
 # Service
 - Conference reviewer: CVPR, EMNLP, ICLR
