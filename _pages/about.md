@@ -164,7 +164,9 @@ TransferWiki is a platform created to assist students from mainland China who ar
 # Service
 - Conference reviewer: CVPR, EMNLP, ICLR
 
-<div style="width: 200px; height: 200px;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=z4YwVPEqLess2QRcopfZP470E6z9y3FHwqrYKv6f2AM&cl=ffffff&w=a"></script>
+<div style="width: 200px; height: 200px; display: flex; justify-content: center; align-items: center; background-color: #f0f0f0; border: 1px solid #e0e0e0; border-radius: 8px;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=z4YwVPEqLess2QRcopfZP470E6z9y3FHwqrYKv6f2AM&cl=000000&w=a"></script>
 </div>
-<p align="left" style="display: none;"> <img src="https://komarev.com/ghpvc/?username=sihanxu&label=Profile%20views&color=0e75b6&style=flat" alt="sihanxu" /> </p>
+<p style="text-align: left; margin: 0; font-size: 12px; color: #666;"> 
+    <img src="https://komarev.com/ghpvc/?username=sihanxu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
