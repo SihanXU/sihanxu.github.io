@@ -19,19 +19,14 @@ redirect_from:
 
 Welcome to my homepage! I'm a undergraduate student of Computer Science at the University of Michigan and an Undergraduate Research Assistant at [SLED lab](https://sled.eecs.umich.edu/) and [VisionX](https://www.sainingxie.com/). Before transferring to the University of Michigan, I'm a student at the University of Nottingham, pursuing B.S. CS with AI. I'm interested in unsupervised/self-supervised learning and generative models, also interested in doing stupid things. [Feedbacks](https://forms.gle/kpGov9XbjaQoSiyh7) are always welcome~
 
-My research journey began with a strong focus on generative models in computer vision, particularly in generative adversarial networks (GANs) and diffusion models. Currently, my work has expanded to encompass a broader range of topics, including computer vision, natural language processing, 3D models and robotics. 
+I view artificial intelligence (AI) not as a follower of predefined human priors but as a dynamic learner --- similar to Searle’s Chinese Room, but free from rigid instructions. AI design reflects both the creativity and constraints of its creators, showcasing their vision while revealing their boundaries. My approach to AI emphasizes simplicity and clarity. Instead of small, incremental improvements, I aim to reimagine solutions from first principles. Inspired by Occam’s razor, I strive to minimize unnecessary complexity and supervision while ensuring consistent, meaningful understanding. My work aspires to **develop systems that learn meaning representations and generate consistent semantics autonomously with minimal supervision involved**.  My philosophy is to pursue minimal parameterizations that effectively represent the maximal information within the input data distribution. By embracing this vision, I design algorithms for 
 
-I think I will focus on the following topics from **first principles** and **Occam's razor** in the future:
-
-- **Multimodal Representation Learning, especially in unsupervised methods.**
-
-- **Causal Generative Model, not only just about autoregressive models or diffusion models.**
-
-- **Machine Learning, something more than current learning approaches.**
+1. self-supervised learning or learning with minimal semantic supervision and
+2. generate consistent semantics given multimodal conditioning, with a primary application to visual generation (for now).
 
 ### <span style="color: red;"> I am actively looking for PhD position to start in 2025 Fall. </span>
 
-# Group Member
+# Group Members
 
 [Ziqiao Ma](https://mars-tin.github.io/), [Xuweiyi Chen](https://xuweiyichen.github.io/), [Tian Xia](https://tianx-ia.github.io/)<span style="color: red;">(looking for PhD of 25 fall)</span>.
 
