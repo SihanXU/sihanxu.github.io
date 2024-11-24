@@ -118,19 +118,32 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 
 # Projects
 
-- [PixAI.art Anime Video Model](https://x.com/PixAI_Official/status/1755180853645459554)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIXAI.ART</div><img src='images/pixai.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PixAI.Art: Introducing A Versatile, Stable and High-Quality Anime Video Model](https://x.com/PixAI_Official/status/1755180853645459554)
 
-  Large scale and state of the art anime video model (at that time).
-
-- [Rethink the Noise Prior of Initialization Gap in Video Diffusion Models](https://github.com/SihanXU/sihanxu.github.io/blob/main/docs/EECS_442_Project.pdf)
-
-  Tian Xia, Yinuo Yang, Sihan XU
-
-  EECS 442 Cource Project
+Large scale and state of the art anime video model (at that time).
   
-- [Transferwiki](https://transferwiki.com/) - Founder
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EECS442</div><img src='images/442.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Rethink the Noise Prior of Initialization Gap in Video Diffusion Models](https://github.com/SihanXU/sihanxu.github.io/blob/main/docs/EECS_442_Project.pdf)
+
+EECS 442 Cource Project
   
-  TransferWiki is a platform created to assist students from mainland China who are planning to transfer to universities abroad, particularly in the United States, Canada, and the United Kingdom. This platform addresses the challenges and information asymmetry faced by students during the transfer process.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TransferWiki</div><img src='images/transferwiki.com_.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Transferwiki](https://transferwiki.com/) - Founder
+
+TransferWiki is a platform created to assist students from mainland China who are planning to transfer to universities abroad, particularly in the United States, Canada, and the United Kingdom. This platform addresses the challenges and information asymmetry faced by students during the transfer process.
+  
+</div>
+</div> 
 
 # Experience
 - *2024.04 - present*, Research Intern @ VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/)
