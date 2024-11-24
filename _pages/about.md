@@ -31,7 +31,9 @@ I think I will focus on the following topics from **first principles** and **Occ
 
 ### <span style="color: red;"> I am actively looking for PhD position to start in 2025 Fall. </span>
 
-**Tian Xia is also looking for PhD position to start in 2025 Fall. See his homepage here: [https://tianx-ia.github.io/](https://tianx-ia.github.io/).**
+# Group Member
+
+[Ziqiao Ma](https://mars-tin.github.io/), [Xuweiyi Chen](https://xuweiyichen.github.io/), [Tian Xia](https://tianx-ia.github.io/)<span style="color: red;">(looking for PhD of 25 fall)</span>.
 
 # News
 
