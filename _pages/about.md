@@ -165,35 +165,7 @@ TransferWiki is a platform created to assist students from mainland China who ar
 - Conference reviewer: CVPR, EMNLP, ICLR
 
 <div style="width: 100%; max-width: 800px; margin: auto; position: relative;">
-    <script 
-        type="text/javascript" 
-        id="clustrmaps" 
-        src="//cdn.clustrmaps.com/map_v2.js?cl=2d89ef&w=a&t=n&d=YOUR_CLUSTRMAPS_KEY&co=ffffff&cmn=00ff00&cmo=ff0000&ct=000000"
-    ></script>
-    <div id="map-container" style="background-color: #ffffff; position: relative; border: 1px solid #e0e0e0; border-radius: 8px;">
-        <div 
-            id="map" 
-            class="clustrmaps-map" 
-            style="width: 100%; height: 400px; background: url('//cdn.clustrmaps.com/assets/sample-map-bg.png') center/cover no-repeat; border-radius: 8px;">
-        </div>
-    </div>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=z4YwVPEqLess2QRcopfZP470E6z9y3FHwqrYKv6f2AM&cl=ffffff&w=a"></script>
 </div>
-
-<style>
-    /* Customize map markers */
-    .clustrmaps-map .jvectormap-marker {
-        fill: #2d89ef !important; /* Blue markers */
-        stroke: #ffffff !important; /* White border */
-        stroke-width: 1px !important;
-    }
-    /* Tooltip styles */
-    .jvectormap-tip {
-        background: #292929 !important;
-        color: #fff !important;
-        font-size: 12px !important;
-        border-radius: 4px !important;
-        padding: 5px !important;
-    }
-</style>
 
 <p align="left" style="display: none;"> <img src="https://komarev.com/ghpvc/?username=sihanxu&label=Profile%20views&color=0e75b6&style=flat" alt="sihanxu" /> </p>
