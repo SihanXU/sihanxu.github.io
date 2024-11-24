@@ -40,7 +40,7 @@ I view artificial intelligence (AI) not as a follower of predefined human priors
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sab3r.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sab3r.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 SAB3R: Semantic-Augmented Backbone in 3D Reconstruction
 
