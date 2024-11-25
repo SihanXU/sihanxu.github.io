@@ -41,7 +41,7 @@ I view artificial intelligence (AI) not as a follower of predefined human priors
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Sab3r.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 SAB3R: Semantic-Augmented Backbone in 3D Reconstruction
 
 Xuweiyi Chen\*, Tian Xia\*, **Sihan XU**, Jianing Yang, Joyce Chai, Zezhou Cheng
@@ -51,7 +51,7 @@ Coming soon.
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/UniCtrlTeaser.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 <span style="color: red;">**[TMLR]**</span>[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control](https://openreview.net/forum?id=x2uFJ79OjK)
 
 Tian Xia\*, Xuweiyi Chen\*, **Sihan XU**<span style="color: red;">**†**</span>
@@ -64,7 +64,7 @@ Tian Xia\*, Xuweiyi Chen\*, **Sihan XU**<span style="color: red;">**†**</span>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/prompting_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 <span style="color: red;">**[NeurIPS2024]**</span>[Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io/)
 
 Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
@@ -74,7 +74,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/infedit_gif.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 <span style="color: red;">**[CVPR2024]**</span>[Inversion-Free Image Editing with Natural Language](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Inversion-Free_Image_Editing_with_Language-Guided_Diffusion_Models_CVPR_2024_paper.html)
 
 **Sihan XU\***, Yidong Huan\*, Jiayi Pan, Ziqiao Ma, Joyce Chai
@@ -90,7 +90,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/cycle.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 <span style="color: red;">**[NeurIPS2023]**</span>[CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/21293a43d0321c5602dd893be2c2332b-Abstract-Conference.html)
 
 **Sihan XU\***, Ziqiao Ma\*, Yidong Huang, Honglak Lee, Joyce Chai
@@ -104,7 +104,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Michigan AI Symposium 2022</div><img src='images/ace-model.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 [ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://raw.githubusercontent.com/SihanXU/sihanxu.github.io/main/docs/ACE-Preprint.pdf)
 
 **Sihan XU**\*<span style="color: red;">**†**</span>, Zelong Jiang\*, Ruisi Liu\*, Kaikai Yang, Zhijie Huang
@@ -118,7 +118,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 # Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIXAI.ART</div><img src='images/pixai.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 [PixAI.Art: Introducing A Versatile, Stable and High-Quality Anime Video Model](https://x.com/PixAI_Official/status/1755180853645459554)
 
 Large scale and state of the art anime video model (at that time).
@@ -127,7 +127,7 @@ Large scale and state of the art anime video model (at that time).
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EECS442</div><img src='images/442.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 [Rethink the Noise Prior of Initialization Gap in Video Diffusion Models](https://github.com/SihanXU/sihanxu.github.io/blob/main/docs/EECS_442_Project.pdf)
 
 EECS 442 Cource Project
@@ -136,7 +136,7 @@ EECS 442 Cource Project
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TransferWiki</div><img src='images/transferwiki.com_.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text'>
+<div class='paper-box-text' markdown="1">
 [Transferwiki](https://transferwiki.com/) - Founder
 
 TransferWiki is a platform created to assist students from mainland China who are planning to transfer to universities abroad, particularly in the United States, Canada, and the United Kingdom. This platform addresses the challenges and information asymmetry faced by students during the transfer process.
