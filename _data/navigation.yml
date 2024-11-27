@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Group Members"
-    url: "/#group-members"
+  - title: "Lab Members"
+    url: "/#lab-members"
 
   - title: "News"
     url: "/#news"
