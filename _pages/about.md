@@ -26,7 +26,7 @@ I view artificial intelligence (AI) not as a follower of predefined human priors
 
 ### <span style="color: red;"> I am actively looking for PhD position to start in 2025 Fall. </span>
 
-# Group Members
+# Lab Members
 
 [Ziqiao Ma](https://mars-tin.github.io/), [Xuweiyi Chen](https://xuweiyichen.github.io/), [Tian Xia](https://tianx-ia.github.io/)<span style="color: red;">(looking for PhD of 25 fall)</span>.
 
