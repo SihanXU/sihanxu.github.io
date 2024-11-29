@@ -24,11 +24,11 @@ I view artificial intelligence (AI) not as a follower of predefined human priors
 1. self-supervised learning or learning with minimal semantic supervision and
 2. generate consistent semantics given multimodal conditioning, with a primary application to visual generation (for now).
 
-### <span style="color: red;"> I am actively looking for PhD position to start in 2025 Fall. </span>
+### <span style="color: red;"> I am actively looking for PhD position to start in 2025 Fall. Links: [CV](https://drive.google.com/file/d/17mkRnRhGq_j4elwAi1KARXEXReJz_3_2/view?usp=sharing) | [Statement](https://drive.google.com/file/d/1NcqkqezSJAtH_vwebKlUSUeRM-Vw2eI2/view?usp=sharing)</span>
 
 # Lab Members
 
-[Ziqiao Ma](https://mars-tin.github.io/), [Xuweiyi Chen](https://xuweiyichen.github.io/), [Tian Xia](https://tianx-ia.github.io/)<span style="color: red;">(looking for PhD of 25 fall)</span>.
+- SixAILab: [Ziqiao Ma](https://mars-tin.github.io/), [Xuweiyi Chen](https://xuweiyichen.github.io/), [Tian Xia](https://tianx-ia.github.io/)<span style="color: red;">(looking for PhD of 25 fall)</span>.
 
 # News
 
