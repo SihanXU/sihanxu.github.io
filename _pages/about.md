@@ -162,7 +162,7 @@ TransferWiki is a platform created to assist students from mainland China who ar
 - *2020.09 - 2022.06*, BSc Hons Computer Science with AI, University of Nottingham (**First Class Honor**)
 
 # Service
-- Conference reviewer: CVPR, EMNLP, ICLR, IEEE TNNLS
+- Reviewer: CVPR, EMNLP, ICLR, IEEE TNNLS
 
 <div style="width: 100%; max-width: 800px; margin: auto; position: relative;">
     <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=b7bbce&amp;w=a&amp;t=n&amp;d=z4YwVPEqLess2QRcopfZP470E6z9y3FHwqrYKv6f2AM&amp;co=ffffff&amp;cmn=fff200&amp;cmo=ff0000&amp;ct=000000"></script>
