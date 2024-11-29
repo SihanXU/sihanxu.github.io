@@ -148,14 +148,16 @@ TransferWiki is a platform created to assist students from mainland China who ar
 - *2024.04 - present*, Research Intern @ VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/)
 - *2024.01 - 2024.05*, Research Lead @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) advised by Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
+- *2020.12 - 2022.06*, ICPC Algorithm Coach @ University of Nottingham
 
 # Talks
 - *2023.12*, Open Vocabulary Image Processing via Diffusion Models @ SLED.
 
 # Honors and Awards
+- Honor Degree.
 - University Honors.
 - Silver (TOP 4%) at Google Smartphone Decimeter Challenge Competition.
-- TOP 1 at UoN Hackathon.
+- TOP 1 at University of Nottingham Hackathon.
 
 # Educations
 - *2022.09 - 2025.06*, B.S Computer Science with AI, University of Michigan (Pursuing **Honor Degree**)
