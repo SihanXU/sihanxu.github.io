@@ -146,6 +146,7 @@ TransferWiki is a platform created to assist students from mainland China who ar
 
 # Experience
 - *2024.04 - present*, Research Intern @ VisionX advised by Prof. [Saining Xie](https://www.sainingxie.com/)
+- 2024.04 - 2024.11, Research Intern @ [UVa Computer Vision Lab](https://uva-computer-vision-lab.github.io/) advised by Prof. [Zezhou Cheng](https://sites.google.com/site/zezhoucheng/)
 - *2024.01 - 2024.05*, Research Lead @ [Mewtant inc.](https://mewtant.io/) and [PixAI.art](https://pixai.art/)
 - *2023.02 - present*, Undergraduate Research Assistant @ [SLED Research Lab](https://sled.eecs.umich.edu/) advised by Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
 - *2020.12 - 2022.06*, ICPC Algorithm Coach @ University of Nottingham
