@@ -25,6 +25,7 @@ I view artificial intelligence (AI) not as a follower of predefined human priors
 2. generate consistent semantics given multimodal conditioning, with a primary application to visual generation (for now).
 
 ### <span style="color: red;"> I am actively looking for PhD position to start in 2025 Fall. Links: [CV](https://drive.google.com/file/d/18s2ZPfTFsiz3VvD4Cna7lv4mtayKkHb_/view?usp=sharing) | [Statement](https://drive.google.com/file/d/1NcqkqezSJAtH_vwebKlUSUeRM-Vw2eI2/view?usp=sharing)</span>
+### <span style="color: red;"> My student F1 visa is valid until 2027 so there will not have any potential visa issues as well. </span>
 
 # Lab Members
 
