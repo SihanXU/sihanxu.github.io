@@ -106,7 +106,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, Xuejun Zhang\*, **Sihan XU**, Shengyi Qian, Jianing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Michigan AI Symposium 2022</div><img src='images/ace-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://raw.githubusercontent.com/SihanXU/sihanxu.github.io/main/docs/ACE-Preprint.pdf)
+[ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder](https://ai.engin.umich.edu/wp-content/uploads/sites/8/2022/11/Demos-and-Posters-List.pdf)
 
 **Sihan XU**\*<span style="color: red;">**†**</span>, Zelong Jiang\*, Ruisi Liu\*, Kaikai Yang, Zhijie Huang
 
